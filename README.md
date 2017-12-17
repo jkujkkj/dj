@@ -30,7 +30,7 @@
 2017年11月18日</TD>
 </TR>
 <TR>
-	<TD>33</TD>
+	<TD>下载全书：PDF简体版，PDF正体版，WORD简体版，WORD正体版，PDF高清杂志简体版，PDF高清杂志正体版</TD>
 </TR>
 <TR>
 	<TD>44</TD>
