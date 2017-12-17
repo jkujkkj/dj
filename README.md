@@ -34,7 +34,7 @@
 	<TD>下载全书：<a href="pkey5/JPN-S-V2-171216.pdf">PDF简体版</a>，<a href="pkey5/JPN-T-V2-171216.pdf">PDF简体版PDF正体版，<a href="pkey5/JPN-S-V2-171216D.docxWORD">WORD简体版</a>，<a href="pkey5/Tekan_V24_P32_GB.pdf>PDF高清杂志简体版</a>，<a href="pkey5/Tekan_V24_P32_TC.pdf">PDF高清杂志正体版</a></TD>
 </TR>
 <TR>
-<TD><a href="pkey5/gbUltiGoalCm.epub">epub简体版电子书</a>，epub正体版电子书，<a href="pkey5/b5UltiGoalCm.epub">希望之声声音档(之一)，<a href="https://git.io/cm2">希望之声声音档(之二)</TD>
+<TD><a href="pkey5/gbUltiGoalCm.epub">epub简体版电子书</a>，<a href="pkey5/b5UltiGoalCm.epub">epub正体版电子书，<a href="b5UltiGoalCm.epub">希望之声声音档(之一)，<a href="https://git.io/cm2">希望之声声音档(之二)</TD>
 </TR>
 </div>	
 </TABLE>
