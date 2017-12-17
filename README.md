@@ -1,7 +1,7 @@
 <TABLE border="1">
 <div >	
 <TR>
-	<TD align=center ><img src="tu_wen/gccmd.jpg"></TD>
+	<TD><img src="tu_wen/gccmd.jpg" width=880></TD>
 </TR>
 <TR>
 	<TD>22</TD>
