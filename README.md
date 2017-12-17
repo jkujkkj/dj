@@ -1,4 +1,5 @@
 <TABLE border="1">
+<div align=center>	
 <TR>
 	<TD><img src="tu_wen/gccmd.jpg"></TD>
 </TR>
@@ -11,6 +12,7 @@
 <TR>
 	<TD>44</TD>
 </TR>
+</div>	
 </TABLE>
 
 <div align=center>
