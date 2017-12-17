@@ -1,3 +1,18 @@
+<TABLE border="1">
+<TR>
+	<TD><img src="tu_wen/gccmd.jpg"></TD>
+</TR>
+<TR>
+	<TD>22</TD>
+</TR>
+<TR>
+	<TD>33</TD>
+</TR>
+<TR>
+	<TD>44</TD>
+</TR>
+</TABLE>
+
 <div align=center>
 <img src="tu_wen/1218/1-活摘-f-歷史巨變前的黑暗-國家殺人機器.jpg">
 <img src="tu_wen/1218/2-大法洪傳-f-法國安納西人的期盼.jpg">
