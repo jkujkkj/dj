@@ -37,7 +37,7 @@
 <TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/gbUltiGoalCm.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/b5UltiGoalCm.epub?raw=true">epub正体版电子书，<a href="https://git.io/cm1">希望之声声音档(之一)，<a href="https://git.io/cm2">希望之声声音档(之二)</TD>
 </TR>
 <TR>
-<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com?raw=true"安卓手机epub电子书阅读器apk</TD>	
+<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单</TD>	
 </TR>	
 </div>	
 </TABLE>
