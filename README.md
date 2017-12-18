@@ -39,6 +39,13 @@
 </div>	
 </TABLE>
 <div align=center>
+<img src="tu_wen/1219/1-活摘-f-殺了人的黃潔夫不害怕嗎？.jpg">
+<img src="tu_wen/1219/2-九字真言-f-至高無上的禮物.jpg">
+<img src="tu_wen/1219/3-迫害-f- 律師：這麼好的人怎麼能危害社會呢？.jpg">
+<img src="tu_wen/1219/3-迫害-f- 韓記者被打 「腳踩臉是中共人員慣用動作」.jpg">
+<img src="tu_wen/1219/4-惡報-f-河北保定市任慶軍遭惡報.jpg">
+<img src="tu_wen/1219/5-三退-f-每日三退聲明精選（2017-12-15）.jpg">
+<img src="tu_wen/1216/8-反迫害-f-德國舉辦系列講真相活動.jpg">	
 <img src="tu_wen/1218/1-活摘-f-歷史巨變前的黑暗-國家殺人機器.jpg">
 <img src="tu_wen/1218/2-大法洪傳-f-法國安納西人的期盼.jpg">
 <img src="tu_wen/1218/2-大法洪傳-f-珍貴回憶.jpg">
