@@ -40,7 +40,7 @@
 <TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单</TD>	
 </TR>
 </div>	
-</TABLE>
+</TABLE><hr>
 <div align=center>
 <img src="tu_wen/1219/1-活摘-f-殺了人的黃潔夫不害怕嗎？.jpg">
 <img src="tu_wen/1219/2-九字真言-f-至高無上的禮物.jpg">
