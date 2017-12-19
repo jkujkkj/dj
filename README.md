@@ -41,10 +41,12 @@
 </TR>
 </div>	
 </TABLE><hr>
-<div align=center>
+<div align=center>	
 <img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
 <img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
-<img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
+<img src="tu_wen/1220/4-惡報-大興安嶺加格達奇公安局局長李子赫等遭惡報.jpg">	
+</div>
+<div align=center>	
 <img src="tu_wen/1219/1-活摘-f-殺了人的黃潔夫不害怕嗎？.jpg">
 <img src="tu_wen/1219/2-九字真言-f-至高無上的禮物.jpg">
 <img src="tu_wen/1219/3-迫害-f- 律師：這麼好的人怎麼能危害社會呢？.jpg">
