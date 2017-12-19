@@ -41,11 +41,10 @@
 </TR>
 </div>	
 </TABLE><hr>
-<div align=center>	
+<div align=center>
 <img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
-<img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">	
-</div>
-<div align=center>	
+<img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
+<img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
 <img src="tu_wen/1219/1-活摘-f-殺了人的黃潔夫不害怕嗎？.jpg">
 <img src="tu_wen/1219/2-九字真言-f-至高無上的禮物.jpg">
 <img src="tu_wen/1219/3-迫害-f- 律師：這麼好的人怎麼能危害社會呢？.jpg">
@@ -67,5 +66,4 @@
 <img src="tu_wen/1216/3-迫害-f-十六歲女孩的痛苦回憶.jpg">
 <img src="tu_wen/1216/5-三退-f-每日三退聲明精選（2017-12-11）.jpg">
 <img src="tu_wen/1216/8-反迫害-f-國際人權日印尼雅加達法輪功學員譴責中共迫害.jpg">
-<img src="tu_wen/1216/9-預言-f-佛界聖花首先在韓國出現.jpg">
 </div>
