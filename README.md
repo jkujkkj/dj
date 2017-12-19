@@ -42,7 +42,7 @@
 </div>	
 </TABLE><hr>
 <div align=center>
-<img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局-央視《焦點訪談》女記者李玉強承認「自焚」鏡頭有假.jpg">
+<img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
 <img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
 <img src="tu_wen/1220/3-迫害-凌鋼高級工程師賈清貴古稀之年再遭迫害.jpg">
 <img src="tu_wen/1220/4-惡報-大興安嶺加格達奇公安局局長李子赫等遭惡報.jpg">
