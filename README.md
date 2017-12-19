@@ -43,6 +43,9 @@
 </TABLE><hr>
 <div align=center>
 <img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
+<img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
+<img src="tu_wen/1220/3-迫害-凌鋼高級工程師賈清貴古稀之年再遭迫害.jpg">
+<img src="tu_wen/1220/4-惡報-大興安嶺加格達奇公安局局長李子赫等遭惡報.jpg">	
 <img src="tu_wen/1220/5-三退-借古鑑今：誓不可以亂發">	
 <img src="tu_wen/1220/8-反迫害-來自瑞典警察的祝福：祝你們好運.jpg">	
 <img src="tu_wen/1220/9-間接-中共採集全體新疆人DNA 背後真相超恐怖.jpg">	
