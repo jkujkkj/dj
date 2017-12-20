@@ -42,7 +42,7 @@
 </div>	
 </TABLE><hr>
 <div align=center>
-<img src="tu_wen/1221/1-自焚- 你不了解的「天安門自焚」騙局-國際揭露騙局 中共醜行曝光.jpg">
+<img src="tu_wen/1221/1-自焚-你不了解的「天安門自焚」騙局-國際揭露騙局 中共醜行曝光.jpg">
 <img src="tu_wen/1221/2-大法美好-東方抗壓「祕方」 這些國家的警察告訴你.jpg">
 <img src="tu_wen/1221/2-祛病健身-丈夫的結石不見了.jpg">	
 <img src="tu_wen/1221/2-洪傳-土耳其有緣人喜聞法輪功.jpg">
