@@ -42,6 +42,7 @@
 </div>	
 </TABLE><hr>
 <div align=center>
+<img src="https://github.com/pkey5/dj/blob/master/1221/1-%E8%87%AA%E7%84%9A-%E5%9C%8B%E9%9A%9B%E6%8F%AD%E9%9C%B2%E9%A8%99%E5%B1%80%20%E4%B8%AD%E5%85%B1%E9%86%9C%E8%A1%8C%E6%9B%9D%E5%85%89.jpg">
 <img src="tu_wen/1221/1-自焚-國際揭露騙局 中共醜行曝光.jpg">
 <img src="tu_wen/1221/2-大法美好-東方抗壓「祕方」 這些國家的警察告訴你.jpg">
 <img src="tu_wen/1221/2-祛病健身-丈夫的結石不見了.jpg">	
