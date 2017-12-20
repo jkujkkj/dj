@@ -43,13 +43,13 @@
 </TABLE><hr>
 <div align=center>
 <img src="https://github.com/pkey5/dj/blob/master/1221/1-%E8%87%AA%E7%84%9A-%E5%9C%8B%E9%9A%9B%E6%8F%AD%E9%9C%B2%E9%A8%99%E5%B1%80%20%E4%B8%AD%E5%85%B1%E9%86%9C%E8%A1%8C%E6%9B%9D%E5%85%89.jpg">
-<img src="tu_wen/1221/1-自焚-國際揭露騙局 中共醜行曝光.jpg">
-<img src="tu_wen/1221/2-大法美好-東方抗壓「祕方」 這些國家的警察告訴你.jpg">
-<img src="tu_wen/1221/2-祛病健身-丈夫的結石不見了.jpg">	
-<img src="tu_wen/1221/2-洪傳-土耳其有緣人喜聞法輪功.jpg">
-<img src="tu_wen/1221/3-迫害-韓記者被踩臉 信仰人士：我也經歷過 .jpg">
-<img src="tu_wen/1221/5-三退-一份羊肉湯的感動.jpg">
-<img src="tu_wen/1221/9-間接-表彰法輪功 美國2017年通過的決議案和褒獎.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E6%9D%B1%E6%96%B9%E6%8A%97%E5%A3%93%E3%80%8C%E7%A5%95%E6%96%B9%E3%80%8D%20%E9%80%99%E4%BA%9B%E5%9C%8B%E5%AE%B6%E7%9A%84%E8%AD%A6%E5%AF%9F%E5%91%8A%E8%A8%B4%E4%BD%A0.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E8%A1%A8%E5%BD%B0%E6%B3%95%E8%BC%AA%E5%8A%9F%20%E7%BE%8E%E5%9C%8B2017%E5%B9%B4%E9%80%9A%E9%81%8E%E7%9A%84%E6%B1%BA%E8%AD%B0%E6%A1%88%E5%92%8C%E8%A4%92%E7%8D%8E.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-%E4%B8%88%E5%A4%AB%E7%9A%84%E7%B5%90%E7%9F%B3%E4%B8%8D%E8%A6%8B%E4%BA%86.jpg">	
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E6%B4%AA%E5%82%B3-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%9C%89%E7%B7%A3%E4%BA%BA%E5%96%9C%E8%81%9E%E6%B3%95%E8%BC%AA%E5%8A%9F.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/3-%E8%BF%AB%E5%AE%B3-%E9%9F%93%E8%A8%98%E8%80%85%E8%A2%AB%E8%B8%A9%E8%87%89%20%E4%BF%A1%E4%BB%B0%E4%BA%BA%E5%A3%AB%EF%BC%9A%E6%88%91%E4%B9%9F%E7%B6%93%E6%AD%B7%E9%81%8E.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/5-%E4%B8%89%E9%80%80-%E4%B8%80%E4%BB%BD%E7%BE%8A%E8%82%89%E6%B9%AF%E7%9A%84%E6%84%9F%E5%8B%95.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E8%A1%A8%E5%BD%B0%E6%B3%95%E8%BC%AA%E5%8A%9F%20%E7%BE%8E%E5%9C%8B2017%E5%B9%B4%E9%80%9A%E9%81%8E%E7%9A%84%E6%B1%BA%E8%AD%B0%E6%A1%88%E5%92%8C%E8%A4%92%E7%8D%8E.jpg">
 <img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
 <img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
 <img src="tu_wen/1220/3-迫害-凌鋼高級工程師賈清貴古稀之年再遭迫害.jpg">
