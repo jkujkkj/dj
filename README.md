@@ -42,6 +42,13 @@
 </div>	
 </TABLE><hr>
 <div align=center>
+<img src="tu_wen/1221/1-自焚- 你不了解的「天安門自焚」騙局-國際揭露騙局 中共醜行曝光.jpg">
+<img src="tu_wen/1221/2-大法美好-東方抗壓「祕方」 這些國家的警察告訴你.jpg">
+<img src="tu_wen/1221/2-祛病健身-丈夫的結石不見了.jpg">	
+<img src="tu_wen/1221/2-洪傳-土耳其有緣人喜聞法輪功.jpg">
+<img src="tu_wen/1221/3-迫害-韓記者被踩臉 信仰人士：我也經歷過 .jpg">
+<img src="tu_wen/1221/5-三退-一份羊肉湯的感動.jpg">
+<img src="tu_wen/1221/9-間接-表彰法輪功 美國2017年通過的決議案和褒獎.jpg">
 <img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
 <img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
 <img src="tu_wen/1220/3-迫害-凌鋼高級工程師賈清貴古稀之年再遭迫害.jpg">
