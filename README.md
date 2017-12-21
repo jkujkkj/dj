@@ -42,7 +42,7 @@
 </div>	
 </TABLE><hr>
 <div align=center>
-<img src="tu_wen/1222/1-活摘-湖南現首例組織倒賣人體器官 難掩活摘黑幕.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/1-%E6%B4%BB%E6%91%98-%E6%B9%96%E5%8D%97%E7%8F%BE%E9%A6%96%E4%BE%8B%E7%B5%84%E7%B9%94%E5%80%92%E8%B3%A3%E4%BA%BA%E9%AB%94%E5%99%A8%E5%AE%98%20%E9%9B%A3%E6%8E%A9%E6%B4%BB%E6%91%98%E9%BB%91%E5%B9%95.jpg">
 <img src="tu_wen/1222/2-九字真言- 相信大法的母親 得福報.jpg">
 <img src="tu_wen/1222/3-迫害-檢察院三次退卷 公安仍非法關押法輪功學員.jpg">
 <img src="tu_wen/1222/3-酷刑-堅持信仰曾遭百種酷刑 老中醫又遭冤判.jpg">
