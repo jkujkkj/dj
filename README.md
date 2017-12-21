@@ -42,6 +42,13 @@
 </div>	
 </TABLE><hr>
 <div align=center>
+<img src="tu_wen/1222/1-活摘-湖南現首例組織倒賣人體器官 難掩活摘黑幕.jpg">
+<img src="tu_wen/1222/2-九字真言- 相信大法的母親 得福報.jpg">
+<img src="tu_wen/1222/3-迫害-檢察院三次退卷 公安仍非法關押法輪功學員.jpg">
+<img src="tu_wen/1222/3-酷刑-堅持信仰曾遭百種酷刑 老中醫又遭冤判.jpg">
+<img src="tu_wen/1222/5-三退-三億中國人退出中共 美國會議員支持.jpg">
+<img src="tu_wen/1222/5-三退-老人找大法弟子退黨.jpg">
+<img src="tu_wen/1222/9-間接-神韻世界巡演在即 眾多亮點獨步全球.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/1221/1-%E8%87%AA%E7%84%9A-%E5%9C%8B%E9%9A%9B%E6%8F%AD%E9%9C%B2%E9%A8%99%E5%B1%80%20%E4%B8%AD%E5%85%B1%E9%86%9C%E8%A1%8C%E6%9B%9D%E5%85%89.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E6%9D%B1%E6%96%B9%E6%8A%97%E5%A3%93%E3%80%8C%E7%A5%95%E6%96%B9%E3%80%8D%20%E9%80%99%E4%BA%9B%E5%9C%8B%E5%AE%B6%E7%9A%84%E8%AD%A6%E5%AF%9F%E5%91%8A%E8%A8%B4%E4%BD%A0.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E8%A1%A8%E5%BD%B0%E6%B3%95%E8%BC%AA%E5%8A%9F%20%E7%BE%8E%E5%9C%8B2017%E5%B9%B4%E9%80%9A%E9%81%8E%E7%9A%84%E6%B1%BA%E8%AD%B0%E6%A1%88%E5%92%8C%E8%A4%92%E7%8D%8E.jpg">
