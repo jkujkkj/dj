@@ -42,7 +42,6 @@
 </div>	
 </TABLE><hr>
 <div align=center>
-<img src="2-祛病健身-f-天籟清音村頭繞神功救度人傳人.jpg">	
 <img src="https://github.com/pkey5/dj/blob/master/1223/2-%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-f-%E5%A4%A9%E7%B1%9F%E6%B8%85%E9%9F%B3%E6%9D%91%E9%A0%AD%E7%B9%9E%E7%A5%9E%E5%8A%9F%E6%95%91%E5%BA%A6%E4%BA%BA%E5%82%B3%E4%BA%BA.jpg">	
 	<img src="https://github.com/pkey5/dj/blob/master/1223/2-%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-f-%E7%B7%A3%E8%B5%B7%E4%B8%80%E6%9C%AC%E7%9C%9F%E7%9B%B8%E6%8E%9B%E6%9B%86.jpg">	
 	<img src="https://github.com/pkey5/dj/blob/master/1223/3-%E8%BF%AB%E5%AE%B3-f-%20%E6%9D%B1%E5%8C%97%E8%BE%B2%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E8%BF%AB%E5%AE%B3%E8%87%B4%E6%AD%BB.jpg">	
