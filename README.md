@@ -42,8 +42,6 @@
 </div>	
 </TABLE><hr>
 <div align=center>
-<img src="tu_wen/1221/1-z1221-1.jpg">
-<img src="tu_wen/1221/2-1221-4.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/1222/1-%E6%B4%BB%E6%91%98-%E6%B9%96%E5%8D%97%E7%8F%BE%E9%A6%96%E4%BE%8B%E7%B5%84%E7%B9%94%E5%80%92%E8%B3%A3%E4%BA%BA%E9%AB%94%E5%99%A8%E5%AE%98%20%E9%9B%A3%E6%8E%A9%E6%B4%BB%E6%91%98%E9%BB%91%E5%B9%95.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/1222/2-%E4%B9%9D%E5%AD%97%E7%9C%9F%E8%A8%80-%20%E7%9B%B8%E4%BF%A1%E5%A4%A7%E6%B3%95%E7%9A%84%E6%AF%8D%E8%A6%AA%20%E5%BE%97%E7%A6%8F%E5%A0%B1.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/1222/3-%E8%BF%AB%E5%AE%B3-%E6%AA%A2%E5%AF%9F%E9%99%A2%E4%B8%89%E6%AC%A1%E9%80%80%E5%8D%B7%20%E5%85%AC%E5%AE%89%E4%BB%8D%E9%9D%9E%E6%B3%95%E9%97%9C%E6%8A%BC%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1.jpg">
