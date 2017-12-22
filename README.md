@@ -42,43 +42,37 @@
 </div>	
 </TABLE><hr>
 <div align=center>
-<TR>
-	<TD><img src="https://github.com/pkey5/dj/blob/master/1221/1221-9-1.jpg"></TD>
-</TR>
-	<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1220/3-%E8%BF%AB%E5%AE%B3-%E5%87%8C%E9%8B%BC%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%B3%88%E6%B8%85%E8%B2%B4%E5%8F%A4%E7%A8%80%E4%B9%8B%E5%B9%B4%E5%86%8D%E9%81%AD%E8%BF%AB%E5%AE%B3.jpg"></TD></TR>
-	
-	
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/1-%E6%B4%BB%E6%91%98-%E6%B9%96%E5%8D%97%E7%8F%BE%E9%A6%96%E4%BE%8B%E7%B5%84%E7%B9%94%E5%80%92%E8%B3%A3%E4%BA%BA%E9%AB%94%E5%99%A8%E5%AE%98%20%E9%9B%A3%E6%8E%A9%E6%B4%BB%E6%91%98%E9%BB%91%E5%B9%95.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/2-%E4%B9%9D%E5%AD%97%E7%9C%9F%E8%A8%80-%20%E7%9B%B8%E4%BF%A1%E5%A4%A7%E6%B3%95%E7%9A%84%E6%AF%8D%E8%A6%AA%20%E5%BE%97%E7%A6%8F%E5%A0%B1.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/3-%E8%BF%AB%E5%AE%B3-%E6%AA%A2%E5%AF%9F%E9%99%A2%E4%B8%89%E6%AC%A1%E9%80%80%E5%8D%B7%20%E5%85%AC%E5%AE%89%E4%BB%8D%E9%9D%9E%E6%B3%95%E9%97%9C%E6%8A%BC%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/3-%E9%85%B7%E5%88%91-%E5%A0%85%E6%8C%81%E4%BF%A1%E4%BB%B0%E6%9B%BE%E9%81%AD%E7%99%BE%E7%A8%AE%E9%85%B7%E5%88%91%20%E8%80%81%E4%B8%AD%E9%86%AB%E5%8F%88%E9%81%AD%E5%86%A4%E5%88%A4.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/5-%E4%B8%89%E9%80%80-%E4%B8%89%E5%84%84%E4%B8%AD%E5%9C%8B%E4%BA%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%85%B1%20%E7%BE%8E%E5%9C%8B%E6%9C%83%E8%AD%B0%E5%93%A1%E6%94%AF%E6%8C%81.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/5-%E4%B8%89%E9%80%80-%E8%80%81%E4%BA%BA%E6%89%BE%E5%A4%A7%E6%B3%95%E5%BC%9F%E5%AD%90%E9%80%80%E9%BB%A8.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1222/9-%E9%96%93%E6%8E%A5-%E7%A5%9E%E9%9F%BB%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E5%9C%A8%E5%8D%B3%20%E7%9C%BE%E5%A4%9A%E4%BA%AE%E9%BB%9E%E7%8D%A8%E6%AD%A5%E5%85%A8%E7%90%83.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1221/1-%E8%87%AA%E7%84%9A-%E5%9C%8B%E9%9A%9B%E6%8F%AD%E9%9C%B2%E9%A8%99%E5%B1%80%20%E4%B8%AD%E5%85%B1%E9%86%9C%E8%A1%8C%E6%9B%9D%E5%85%89.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E6%9D%B1%E6%96%B9%E6%8A%97%E5%A3%93%E3%80%8C%E7%A5%95%E6%96%B9%E3%80%8D%20%E9%80%99%E4%BA%9B%E5%9C%8B%E5%AE%B6%E7%9A%84%E8%AD%A6%E5%AF%9F%E5%91%8A%E8%A8%B4%E4%BD%A0.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1221/9-%E9%96%93%E6%8E%A5-%E8%A1%A8%E5%BD%B0flg_%E7%BE%8E%E5%9C%8B2017%E5%B9%B4%E9%80%9A%E9%81%8E%E7%9A%84%E6%B1%BA%E8%AD%B0%E6%A1%88%E5%92%8C%E8%A4%92%E7%8D%8E.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1221/2-%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-%E4%B8%88%E5%A4%AB%E7%9A%84%E7%B5%90%E7%9F%B3%E4%B8%8D%E8%A6%8B%E4%BA%86.jpg"></TD></TR>	
-<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E6%B4%AA%E5%82%B3-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%9C%89%E7%B7%A3%E4%BA%BA%E5%96%9C%E8%81%9E%E6%B3%95%E8%BC%AA%E5%8A%9F.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1221/3-%E8%BF%AB%E5%AE%B3-%E9%9F%93%E8%A8%98%E8%80%85%E8%A2%AB%E8%B8%A9%E8%87%89_%E4%BF%A1%E4%BB%B0%E4%BA%BA%E5%A3%AB%EF%BC%9A%E6%88%91%E4%B9%9F%E7%B6%93%E6%AD%B7%E9%81%8E.jpg"></TD></TR>
-<TR><TD><img src="https://github.com/pkey5/dj/blob/master/1221/5-%E4%B8%89%E9%80%80-%E4%B8%80%E4%BB%BD%E7%BE%8A%E8%82%89%E6%B9%AF%E7%9A%84%E6%84%9F%E5%8B%95.jpg"></TD></TR>
-<TR><TD><img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
-<TR><TD><img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">
-<TR><TD><img src="tu_wen/1220/3-迫害-凌鋼高級工程師賈清貴古稀之年再遭迫害.jpg">
-<TR><TD><img src="tu_wen/1220/4-惡報-大興安嶺加格達奇公安局局長李子赫等遭惡報.jpg">	
-<TR><TD><img src="tu_wen/1220/5-三退-借古鑑今：誓不可以亂發.jpg">	
-<TR><TD><img src="tu_wen/1220/8-反迫害-來自瑞典警察的祝福：祝你們好運.jpg">	
-<TR><TD><img src="tu_wen/1220/9-間接-中共採集全體新疆人DNA 背後真相超恐怖.jpg">	
-<TR><TD><img src="tu_wen/1219/1-活摘-f-殺了人的黃潔夫不害怕嗎？.jpg">
-<TR><TD><img src="tu_wen/1219/2-九字真言-f-至高無上的禮物.jpg">
-<TR><TD><img src="tu_wen/1219/3-迫害-f- 律師：這麼好的人怎麼能危害社會呢？.jpg">
-<TR><TD><img src="tu_wen/1219/3-迫害-f- 韓記者被打 「腳踩臉是中共人員慣用動作」.jpg">
-<TR><TD><img src="tu_wen/1219/4-惡報-f-河北保定市任慶軍遭惡報.jpg">
-<TR><TD><img src="tu_wen/1219/5-三退-f-每日三退聲明精選（2017-12-15）.jpg">
-<TR><TD><img src="tu_wen/1216/8-反迫害-f-德國舉辦系列講真相活動.jpg">	
-<TR><TD><img src="tu_wen/1218/1-活摘-f-歷史巨變前的黑暗-國家殺人機器.jpg">
-<TR><TD><img src="tu_wen/1218/2-大法洪傳-f-法國安納西人的期盼.jpg">
-<TR><TD><img src="tu_wen/1218/2-大法洪傳-f-珍貴回憶.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/1-%E6%B4%BB%E6%91%98-%E6%B9%96%E5%8D%97%E7%8F%BE%E9%A6%96%E4%BE%8B%E7%B5%84%E7%B9%94%E5%80%92%E8%B3%A3%E4%BA%BA%E9%AB%94%E5%99%A8%E5%AE%98%20%E9%9B%A3%E6%8E%A9%E6%B4%BB%E6%91%98%E9%BB%91%E5%B9%95.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/2-%E4%B9%9D%E5%AD%97%E7%9C%9F%E8%A8%80-%20%E7%9B%B8%E4%BF%A1%E5%A4%A7%E6%B3%95%E7%9A%84%E6%AF%8D%E8%A6%AA%20%E5%BE%97%E7%A6%8F%E5%A0%B1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/3-%E8%BF%AB%E5%AE%B3-%E6%AA%A2%E5%AF%9F%E9%99%A2%E4%B8%89%E6%AC%A1%E9%80%80%E5%8D%B7%20%E5%85%AC%E5%AE%89%E4%BB%8D%E9%9D%9E%E6%B3%95%E9%97%9C%E6%8A%BC%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/3-%E9%85%B7%E5%88%91-%E5%A0%85%E6%8C%81%E4%BF%A1%E4%BB%B0%E6%9B%BE%E9%81%AD%E7%99%BE%E7%A8%AE%E9%85%B7%E5%88%91%20%E8%80%81%E4%B8%AD%E9%86%AB%E5%8F%88%E9%81%AD%E5%86%A4%E5%88%A4.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/5-%E4%B8%89%E9%80%80-%E4%B8%89%E5%84%84%E4%B8%AD%E5%9C%8B%E4%BA%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%85%B1%20%E7%BE%8E%E5%9C%8B%E6%9C%83%E8%AD%B0%E5%93%A1%E6%94%AF%E6%8C%81.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/5-%E4%B8%89%E9%80%80-%E8%80%81%E4%BA%BA%E6%89%BE%E5%A4%A7%E6%B3%95%E5%BC%9F%E5%AD%90%E9%80%80%E9%BB%A8.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1222/9-%E9%96%93%E6%8E%A5-%E7%A5%9E%E9%9F%BB%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E5%9C%A8%E5%8D%B3%20%E7%9C%BE%E5%A4%9A%E4%BA%AE%E9%BB%9E%E7%8D%A8%E6%AD%A5%E5%85%A8%E7%90%83.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/1-%E8%87%AA%E7%84%9A-%E5%9C%8B%E9%9A%9B%E6%8F%AD%E9%9C%B2%E9%A8%99%E5%B1%80%20%E4%B8%AD%E5%85%B1%E9%86%9C%E8%A1%8C%E6%9B%9D%E5%85%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E6%9D%B1%E6%96%B9%E6%8A%97%E5%A3%93%E3%80%8C%E7%A5%95%E6%96%B9%E3%80%8D%20%E9%80%99%E4%BA%9B%E5%9C%8B%E5%AE%B6%E7%9A%84%E8%AD%A6%E5%AF%9F%E5%91%8A%E8%A8%B4%E4%BD%A0.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/9-%E9%96%93%E6%8E%A5-%E8%A1%A8%E5%BD%B0%E6%B3%95%E8%BC%AA%E5%8A%9F_%E7%BE%8E%E5%9C%8B2017%E5%B9%B4%E9%80%9A%E9%81%8E%E7%9A%84%E6%B1%BA%E8%AD%B0%E6%A1%88%E5%92%8C%E8%A4%92%E7%8D%8E.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-%E4%B8%88%E5%A4%AB%E7%9A%84%E7%B5%90%E7%9F%B3%E4%B8%8D%E8%A6%8B%E4%BA%86.jpg">	
+<img src="https://github.com/pkey5/dj/blob/master/1221/2-%E6%B4%AA%E5%82%B3-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%9C%89%E7%B7%A3%E4%BA%BA%E5%96%9C%E8%81%9E%E6%B3%95%E8%BC%AA%E5%8A%9F.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/3-%E8%BF%AB%E5%AE%B3-%E9%9F%93%E8%A8%98%E8%80%85%E8%A2%AB%E8%B8%A9%E8%87%89_%E4%BF%A1%E4%BB%B0%E4%BA%BA%E5%A3%AB%EF%BC%9A%E6%88%91%E4%B9%9F%E7%B6%93%E6%AD%B7%E9%81%8E.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/1221/5-%E4%B8%89%E9%80%80-%E4%B8%80%E4%BB%BD%E7%BE%8A%E8%82%89%E6%B9%AF%E7%9A%84%E6%84%9F%E5%8B%95.jpg">
+<img src="tu_wen/1220/1-自焚-你不了解的「天安門自焚」騙局.jpg">
+<img src="tu_wen/1220/2-大法美好-信大法見奇蹟.jpg">h
+<img src="tu_wen/1220/3-迫害-凌鋼高級工程師賈清貴古稀之年再遭迫害.jpg">
+<img src="tu_wen/1220/4-惡報-大興安嶺加格達奇公安局局長李子赫等遭惡報.jpg">	
+<img src="tu_wen/1220/5-三退-借古鑑今：誓不可以亂發.jpg">	
+<img src="tu_wen/1220/8-反迫害-來自瑞典警察的祝福：祝你們好運.jpg">	
+<img src="tu_wen/1220/9-間接-中共採集全體新疆人DNA 背後真相超恐怖.jpg">	
+<img src="tu_wen/1219/1-活摘-f-殺了人的黃潔夫不害怕嗎？.jpg">
+<img src="tu_wen/1219/2-九字真言-f-至高無上的禮物.jpg">
+<img src="tu_wen/1219/3-迫害-f- 律師：這麼好的人怎麼能危害社會呢？.jpg">
+<img src="tu_wen/1219/3-迫害-f- 韓記者被打 「腳踩臉是中共人員慣用動作」.jpg">
+<img src="tu_wen/1219/4-惡報-f-河北保定市任慶軍遭惡報.jpg">
+<img src="tu_wen/1219/5-三退-f-每日三退聲明精選（2017-12-15）.jpg">
+<img src="tu_wen/1216/8-反迫害-f-德國舉辦系列講真相活動.jpg">	
+<img src="tu_wen/1218/1-活摘-f-歷史巨變前的黑暗-國家殺人機器.jpg">
+<img src="tu_wen/1218/2-大法洪傳-f-法國安納西人的期盼.jpg">
+<img src="tu_wen/1218/2-大法洪傳-f-珍貴回憶.jpg">
 <img src="tu_wen/1218/3-迫害-f-遼寧清原縣劉玉被非法關押近四月.jpg">
 <img src="tu_wen/1218/5-三退-f-每日三退聲明精選（2017-12-12）.jpg">
 <img src="tu_wen/1218/7-訴江-f-來自吉林省女子監獄內對江澤民的控告.jpg">
