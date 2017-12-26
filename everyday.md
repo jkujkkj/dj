@@ -158,7 +158,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/2-450x300.png" width=880></td>
+<td align="center"><IMG SRC="img/2-450x300.png"></td>
 </tr>
 <tr>
 <td align="center">中共参与强制活摘的医院分布图。（大纪元）</td>
