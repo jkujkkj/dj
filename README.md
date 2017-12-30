@@ -1,3 +1,4 @@
+<img src="img/red-979573-1-600x400.jpg" width=880>
 <TABLE border="1">
 <div >	
 <TR>
@@ -42,6 +43,13 @@
 </div>	
 </TABLE><hr>
 <div align=center>
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/1-%E6%B4%BB%E6%91%98-f-%E4%B8%AD%E5%85%B1%E5%BB%BA%E6%B4%BB%E6%91%98%E5%99%A8%E5%AE%98%E5%BA%AB%20%E5%B0%8D%E8%B1%A1%E6%81%90%E6%93%B4%E5%8F%8A%E6%99%AE%E9%80%9A%E6%B0%91%E7%9C%BE.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/2-%E4%BA%BA%E5%BF%83%E6%BC%B8%E6%98%8E-f-%E7%9C%8B%E5%AE%88%E6%89%80%E7%8D%84%E8%AD%A6%E5%B0%8D%E6%88%91%E8%AA%AA%EF%BC%9A%E8%8E%AB%E6%80%A5%E8%8E%AB%E6%80%A5%EF%BC%8C%E5%A4%A9%E5%BF%AB%E4%BA%AE%E4%BA%86%EF%BC%81.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E7%99%BE%E6%AD%B2%E5%A5%B6%E5%A5%B6%E7%9A%84%E6%95%85%E4%BA%8B.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/3-%E8%BF%AB%E5%AE%B3-f-%E8%92%99%E5%8F%A4%E8%8D%89%E5%8E%9F%E6%B7%B1%E8%99%95%E7%9A%84%E5%84%AA%E6%9B%87%E5%A9%86%E7%BE%85%E8%8A%B1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/5-%E4%B8%89%E9%80%80-f-%E7%9C%8B%E9%96%80%E5%A4%A7%E7%88%BA%EF%BC%9A%E2%80%9C%E5%A5%BD%EF%BC%8C%E9%80%80%E4%BA%86%EF%BC%81%E2%80%9D.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/8-%E5%8F%8D%E8%BF%AB%E5%AE%B3-f-%E7%B4%90%E7%B4%84%E9%AB%98%E6%A0%A1%20%E5%AD%B8%E5%AD%90%E9%9C%87%E9%A9%9A%E6%96%BC%E6%B4%BB%E6%91%98%E5%99%A8%E5%AE%98%E7%BD%AA%E8%A1%8C.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/1230/9-%E9%96%93%E6%8E%A5-f-%E4%B8%80%E5%80%8B%E5%85%AC%E5%8B%99%E5%93%A1%E7%9A%84%E5%BF%83%E8%81%B2.jpg">	
 <img src="https://github.com/pkey5/dj/blob/master/1229/1-%E8%87%AA%E7%84%9A-%E7%A9%BF%E5%B9%AB%E7%9A%84%E3%80%8C%E8%87%AA%E7%84%9A%E3%80%8D.jpg ">
 <img src="https://github.com/pkey5/dj/blob/master/1229/2-%E4%B9%9D%E5%AD%97%E7%9C%9F%E8%A8%80-%E7%97%85%E6%88%BF%E7%9A%84%E4%BA%BA%E9%83%BD%E4%B8%80%E8%B5%B7%E5%87%BA%E9%99%A2%E4%BA%86.jpg ">
 <img src="https://github.com/pkey5/dj/blob/master/1229/3-%E8%BF%AB%E5%AE%B3-%E6%8E%9B%E7%9C%9F%E7%9B%B8%E6%A9%AB%E5%B9%85%20%E5%BB%A3%E6%9D%B1%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E8%A2%AB%E8%BF%AB%E5%AE%B3%E8%87%B4%E6%AD%BB.jpg ">
