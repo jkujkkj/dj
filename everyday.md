@@ -1,3 +1,4 @@
+<IMG SRC="img/red-979573-1-600x400.jpg" width=880><br>
 <h1><b>夏祷：活摘──历史巨变前的黑暗 (完整版)</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
