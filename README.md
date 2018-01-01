@@ -2,7 +2,7 @@
 <TABLE border="1">
 <div >	
 <TR>
-	<TD><img src="tu_wen/gccmd.jpg" width=880></TD>
+	<a href="https://github.com/goodabc/GCC/blob/master/goal.md"><TD><img src="tu_wen/gccmd.jpg" width=880></a></TD>
 </TR>
 <TR>
 <TD><b>《共产主义的终极目的》序言</b><br><br>
