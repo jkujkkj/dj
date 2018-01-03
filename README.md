@@ -1,4 +1,4 @@
-<img src="img/red-979573-1-600x400.jpg" width=880>
+<a href="http://111.243.35.205"><img src="img/red-979573-1-600x400.jpg" width=880>
 <TABLE border="1">
 <div >	
 <TR>
