@@ -1,4 +1,4 @@
-<IMG SRC="img/red-979573-1-600x400.jpg" width=880><br>
+<a href="http://111.243.35.205"><IMG SRC="img/red-979573-1-600x400.jpg" width=880></a><br>
 <h1><b>中共建活摘器官库 对象恐扩及普通民众</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
