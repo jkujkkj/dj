@@ -43,6 +43,13 @@
 </div>	
 </TABLE><hr>
 <div align=center> 
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/1-%E6%B4%BB%E6%91%98-f-%E6%B1%9F%E7%B6%BF%E6%81%92%E6%8F%9B%E8%85%8E3%E6%AC%A1%E6%AE%BA%E4%BA%865%E5%80%8B%E4%BA%BA.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E5%A2%A8%E7%88%BE%E6%9C%AC%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E7%82%BA%E5%B8%82%E6%B0%91%E9%80%81%E7%A5%9D%E7%A6%8F.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%A9%E5%8A%A0%E7%B4%AE%E5%A8%9C.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/4-%E6%83%A1%E5%A0%B1-f-%E4%BD%9C%E6%83%A1%E8%80%85%E9%91%92%EF%BC%9A%E8%BF%AB%E5%AE%B3%E6%B3%95%E8%BC%AA%E5%8A%9F%E7%B5%82%E9%9B%A3%E9%80%83%E6%B3%95%E7%B6%B2(1).jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/4-%E6%83%A1%E5%A0%B1-f-%E4%BD%9C%E6%83%A1%E8%80%85%E9%91%92%EF%BC%9A%E8%BF%AB%E5%AE%B3%E6%B3%95%E8%BC%AA%E5%8A%9F%E7%B5%82%E9%9B%A3%E9%80%83%E6%B3%95%E7%B6%B2(2).jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/5-%E4%B8%89%E9%80%80-f-%E6%AF%8F%E6%97%A5%E4%B8%89%E9%80%80%E8%81%B2%E6%98%8E%E7%B2%BE%E9%81%B8%EF%BC%882017-01-01%EF%BC%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/9-%E9%96%93%E6%8E%A5-f-%E5%82%B3%E3%80%8A%E4%B9%9D%E8%A9%95%E3%80%8B.jpg">	
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0105/1-%E8%87%AA%E7%84%9A-%20%E5%9F%B7%E5%8B%A4%E7%8F%BE%E5%A0%B4%E7%9B%AE%E6%93%8A%EF%BC%9A%E3%80%8C%E5%85%88%E9%BB%9E%E7%81%AB%EF%BC%8C%E5%8F%88%E6%BB%85%E7%81%AB%EF%BC%8C%E4%BB%A5%E7%82%BA%E6%8B%8D%E9%9B%BB%E5%BD%B1%E3%80%8D.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0105/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-%E8%A2%AB%E3%80%8A%E8%BD%89%E6%B3%95%E8%BC%AA%E3%80%8B%E6%94%B9%E8%AE%8A%E7%9A%84%E8%8A%AC%E8%98%AD%E7%95%AB%E5%AE%B6.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0105/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E6%96%B0%E5%B9%B4%E6%84%9F%E6%81%A9-%E8%A2%AB%E9%9D%9E%E6%B3%95%E9%97%9C%E6%8A%BC%E7%9A%84%E5%A4%A7%E6%B3%95%E5%BC%9F%E5%AD%90%E7%9A%84%E5%AD%A9%E5%AD%90%E7%9A%84%E5%BF%83%E8%81%B2.jpg">
