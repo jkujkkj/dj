@@ -42,7 +42,14 @@
 </TR>
 </div>	
 </TABLE><hr>
-<div align=center> 
+<div align=center>
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/1%E6%B4%BB%E6%91%98-f-%E5%88%B6%E6%AD%A2%E6%9A%B4%E8%A1%8C%20%E4%B8%8D%E6%87%89%E6%B2%89%E9%BB%98.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/3-%E9%85%B7%E5%88%91-f-%E7%BE%8A%E9%A6%AC%E9%8E%AE%E8%83%A1%E9%9C%9E%E9%81%AD%E9%85%B7%E5%88%91%E8%BF%AB%E5%AE%B3%E8%87%B4%E6%AD%BB.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/4-%E6%83%A1%E5%A0%B1-f-%20610%E4%B8%BB%E4%BB%BB%E5%AD%AB%E9%81%A0%E8%88%AA%E9%81%AD%E6%83%A1%E5%A0%B1%E6%9A%B4%E6%AD%BB.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/5-%E4%B8%89%E9%80%80-f-%E6%AF%8F%E6%97%A5%E4%B8%89%E9%80%80%E8%81%B2%E6%98%8E%E7%B2%BE%E9%81%B8%EF%BC%882017-01-03%EF%BC%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/7-%E8%A8%B4%E6%B1%9F-f-%E6%B8%85%E7%AE%97%E7%BE%A4%E9%AB%94%E6%BB%85%E7%B5%95%E7%BD%AA%20%E5%AF%A9%E5%88%A4%E6%B1%9F%E6%BE%A4%E6%B0%91.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/8-%E5%8F%8D%E8%BF%AB%E5%AE%B3-f-%E2%80%9C%E7%82%B8%E5%BD%88%E6%B0%A3%E6%97%8B%E2%80%9D%E9%A2%A8%E6%9A%B4%E6%93%8B%E4%B8%8D%E4%BD%8F%E7%B4%90%E7%B4%84%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E8%AC%9B%E7%9C%9F%E7%9B%B8.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0108/9-%E9%96%93%E6%8E%A5-f-%E5%86%B7%E8%A1%80%E7%9A%84%E5%9C%8B%E5%BA%A6.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/1-%E6%B4%BB%E6%91%98-f-%E6%B1%9F%E7%B6%BF%E6%81%92%E6%8F%9B%E8%85%8E3%E6%AC%A1%E6%AE%BA%E4%BA%865%E5%80%8B%E4%BA%BA.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E5%A2%A8%E7%88%BE%E6%9C%AC%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E7%82%BA%E5%B8%82%E6%B0%91%E9%80%81%E7%A5%9D%E7%A6%8F.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0106/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%A9%E5%8A%A0%E7%B4%AE%E5%A8%9C.jpg">
