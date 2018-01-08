@@ -137,7 +137,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/1606221934541160-600x400" width=880></td>
+<td align="center"><IMG SRC="img/1606221934541160-600x400-e1468580521275.jpg" width=880></td>
 </tr>
 <tr>
 <td align="center">6月22日，活摘器官最新调查报告新闻发布会现场（李莎／大纪元）</td>
