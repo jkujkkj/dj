@@ -1,4 +1,4 @@
-<a href="http://114.37.20.196"><img src="img/red-979573-1-600x400-0103-3.jpg" width=880></a>
+<a href="http://118.161.48.86"><img src="img/red-979573-1-600x400-0106-1.jpg" width=880></a>
 <TABLE border="1">
 <div >	
 <TR>
