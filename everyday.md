@@ -1,4 +1,21 @@
 <a href="http://118.161.48.86"><IMG SRC="img/red-979573-1-600x400-0106-1.jpg" width=880></a><br>
+<TABLE border="1">
+<div >	
+<TR>
+<TD><b>《九评》编辑部新书——《共产主义的终极目的——中国篇》</b><br><br>
+</TR>
+<TR>
+<TD>下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
+</TR>
+<TR>
+<TD>下载：<a href="http://118.161.48.86/epub/ultiGoalCmCN16k.epub">镶崁 mp3 epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://git.io/cm1">希望之声声音档(之一)，<a href="https://git.io/cm2">希望之声声音档(之二)</TD>
+</TR>
+<TR>
+<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单</TD>	
+</TR>
+</div>
+</TABLE>
+
 <h1><b>中共建活摘器官库 对象恐扩及普通民众</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
