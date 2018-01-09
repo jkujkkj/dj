@@ -1,4 +1,4 @@
-<a href="http://118.161.48.86"><IMG SRC="img/red-979573-1-600x400-0106-1.jpg" width=880></a><br>
+<a href="http://114.43.33.190"><IMG SRC="img/red-979573-1-600x400-0109-1.jpg" width=880></a><br>
 <TABLE border="1">
 <div >	
 <TR>
@@ -8,13 +8,26 @@
 <TD>下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载：<a href="http://118.161.48.86/epub/ultiGoalCmCN16k.epub">镶崁 mp3 epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://git.io/cm1">希望之声声音档(之一)，<a href="https://git.io/cm2">希望之声声音档(之二)</TD>
+<TD>下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="http://114.43.33.190/epub/ultiGoalCmCN16k.epub?raw=true">镶崁16k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)</TD>
 </TR>
 <TR>
 <TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单(一般智能手机都有支援ePub，安卓或苹果都可安装“掌阅iReader”这个APP，请自行注意安全)</TD>	
 </TR>
 </div>
 </TABLE>
+	
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
+    - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
+   - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
+    
+<hr>	
 <h1 align="center">【720系列】对中共活摘器官说不（上）</b></h1>	
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
