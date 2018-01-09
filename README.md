@@ -41,7 +41,20 @@
 <TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单(一般智能手机都有支援ePub，安卓或苹果都可安装“掌阅iReader”这个APP，请自行注意安全)</TD>	
 </TR>
 </div>	
-</TABLE><hr>
+</TABLE>
+	
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
+    - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
+   - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
+    
+	<hr>
 <div align=center>
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0110/1-%E8%87%AA%E7%84%9A-%E8%A6%AA%E8%BA%AB%E7%B6%93%E6%AD%B7%E8%AE%93%E6%88%91%E7%9C%8B%E7%A9%BF%E3%80%8C%E8%87%AA%E7%84%9A%E3%80%8D%E5%81%87%E6%A1%88.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0110/2-%E4%B9%9D%E5%AD%97-%E7%9C%9F%E8%A8%80%E8%AA%A0%E5%BF%B5%E3%80%8C%E6%B3%95%E8%BC%AA%E5%A4%A7%E6%B3%95%E5%A5%BD%E3%80%8D%E6%93%BA%E8%84%AB%E5%A4%B1%E7%9C%A0%E5%9B%B0%E6%93%BE.jpg">
