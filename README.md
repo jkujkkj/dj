@@ -42,7 +42,13 @@
 </TR>
 </div>
 </TABLE>
-	
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/1%E6%B4%BB%E6%91%98-f-%E4%B8%80%E5%80%8B%E6%AD%A6%E8%AD%A6%E7%9A%84%E8%A6%BA%E9%86%92.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-f-%E5%BE%AE%E8%BB%9F%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%99%BC%E7%8F%BE%E4%BA%BA%E7%94%9F%E3%80%8C%E5%AF%86%E7%A2%BC%E3%80%8D(%E4%B8%8A).jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-f-%E5%BE%AE%E8%BB%9F%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%99%BC%E7%8F%BE%E4%BA%BA%E7%94%9F%E3%80%8C%E5%AF%86%E7%A2%BC%E3%80%8D(%E4%B8%8B).jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/3-%E8%BF%AB%E5%AE%B3-f-%E8%96%9B%E9%9C%9E%EF%BC%8C%E8%A2%AB%E5%8B%9E%E6%95%99%E6%89%80%E8%BF%AB%E5%AE%B3%E8%87%B4%E8%85%A6%E8%90%8E%E7%B8%AE.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/4-%E6%83%A1%E5%A0%B1-f-%E7%A7%A6%E7%8E%89%E6%B5%B7%E8%A1%80%E5%82%B5%E7%B4%AF%E7%B4%AF%EF%BC%8C%E9%81%AD%E6%83%A1%E5%A0%B1%E7%9A%84%E9%96%8B%E5%A7%8B.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/5-%E4%B8%89%E9%80%80-f-%E6%AF%8F%E6%97%A5%E4%B8%89%E9%80%80%E8%81%B2%E6%98%8E%E7%B2%BE%E9%81%B8%EF%BC%882017-01-10%EF%BC%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/8-%E5%8F%8D%E8%BF%AB%E5%AE%B3-f-%E6%82%89%E5%B0%BC%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%82%B3%E7%9C%9F%E7%9B%B8.jpg">	
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
     - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
     - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
