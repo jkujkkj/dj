@@ -54,7 +54,7 @@
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
 
-<hr>
+<hr><div align="center">
 
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/1%E6%B4%BB%E6%91%98-f-%E4%B8%80%E5%80%8B%E6%AD%A6%E8%AD%A6%E7%9A%84%E8%A6%BA%E9%86%92.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-f-%E5%BE%AE%E8%BB%9F%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%99%BC%E7%8F%BE%E4%BA%BA%E7%94%9F%E3%80%8C%E5%AF%86%E7%A2%BC%E3%80%8D(%E4%B8%8A).jpg">
