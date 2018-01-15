@@ -36,6 +36,13 @@
 
 <hr><div align="center" >	
 
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E5%85%AD%E7%95%9D%E5%9C%B0%E7%9A%84%E6%95%85%E4%BA%8B.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/3-%E8%BF%AB%E5%AE%B3-f-%E5%BC%B5%E5%85%A8%E7%A6%8F%E3%80%81%E5%BC%B5%E5%95%9F%E7%99%BC%E7%88%B6%E5%AD%90%E8%A2%AB%E5%90%8C%E4%B8%80%E5%8B%9E%E6%95%99%E6%89%80%E8%99%90%E6%AE%BA.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/4-%E6%83%A1%E5%A0%B1-f-%E4%B8%8D%E6%98%AF%E4%B8%8D%E5%A0%B1%E6%99%82%E8%BE%B0%E6%9C%AA%E5%88%B0.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/5-%E4%B8%89%E9%80%80-f-%E6%AF%8F%E6%97%A5%E4%B8%89%E9%80%80%E8%81%B2%E6%98%8E%E7%B2%BE%E9%81%B8%EF%BC%882017-01-013%EF%BC%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/9-%E9%96%93%E6%8E%A5-f-%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%95%8F%E9%A1%8C%E6%98%AF%E6%AA%A2%E9%A9%97%E9%81%93%E5%BE%B7%E8%89%AF%E7%9F%A5%E7%9A%84%E8%A9%A6%E9%87%91%E7%9F%B3(%E4%B8%8A).jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/9-%E9%96%93%E6%8E%A5-f-%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%95%8F%E9%A1%8C%E6%98%AF%E6%AA%A2%E9%A9%97%E9%81%93%E5%BE%B7%E8%89%AF%E7%9F%A5%E7%9A%84%E8%A9%A6%E9%87%91%E7%9F%B3(%E4%B8%8B).jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0116/9-%E9%96%93%E6%8E%A5-f-%E7%B9%AA%E7%95%AB%EF%BC%9A%E7%8D%84%E4%B8%AD%E7%85%89%E5%8A%9F.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/1%E6%B4%BB%E6%91%98-f-%E4%B8%80%E5%80%8B%E6%AD%A6%E8%AD%A6%E7%9A%84%E8%A6%BA%E9%86%92.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-f-%E5%BE%AE%E8%BB%9F%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%99%BC%E7%8F%BE%E4%BA%BA%E7%94%9F%E3%80%8C%E5%AF%86%E7%A2%BC%E3%80%8D(%E4%B8%8A).jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0115/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-f-%E5%BE%AE%E8%BB%9F%E9%AB%98%E7%B4%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%99%BC%E7%8F%BE%E4%BA%BA%E7%94%9F%E3%80%8C%E5%AF%86%E7%A2%BC%E3%80%8D(%E4%B8%8B).jpg">
