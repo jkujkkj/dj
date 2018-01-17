@@ -35,7 +35,7 @@
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
 
 <hr><div align="center" >	
-<imgsrc="https://github.com/pkey5/dj/blob/master/tu_wen/0118/1-%E8%87%AA%E7%84%9A-%E6%B3%95%E8%BC%AA%E5%8A%9F%E6%98%8E%E7%A2%BA%E6%8C%87%E5%87%BA%EF%BC%9A%E7%85%89%E5%8A%9F%E4%BA%BA%E4%B8%8D%E8%83%BD%E6%AE%BA%E7%94%9F%20%E8%87%AA%E6%AE%BA%E6%9C%89%E7%BD%AA.jpg.jpg">
+<imgsrc="https://github.com/pkey5/dj/blob/master/tu_wen/0118/1-%E8%87%AA%E7%84%9A-%E6%B3%95%E8%BC%AA%E5%8A%9F%E6%98%8E%E7%A2%BA%E6%8C%87%E5%87%BA%EF%BC%9A%E7%85%89%E5%8A%9F%E4%BA%BA%E4%B8%8D%E8%83%BD%E6%AE%BA%E7%94%9F%20%E8%87%AA%E6%AE%BA%E6%9C%89%E7%BD%AA.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0118/2-%20%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-%E5%B0%BE%E9%AA%A8%E7%A5%9E%E7%B6%93%E6%96%B7%20%E8%AE%80%E3%80%8A%E8%BD%89%E6%B3%95%E8%BC%AA%E3%80%8B%E5%BA%B7%E5%BE%A9.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0118/3-%E8%BF%AB%E5%AE%B3-%E3%80%8C%E4%B8%89%E5%80%8B%E5%AD%97%E5%88%A4%E5%85%AD%E5%B9%B4%E3%80%8D%E8%AA%AA%E6%98%8E%E4%BA%86%E7%94%9A%E9%BA%BC%EF%BC%9F.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0118/4-%E6%83%A1%E5%A0%B1-%E5%85%A7%E8%92%99%E5%8F%A4%E5%B7%B4%E5%BD%A5%E6%B7%96%E7%88%BE%E5%89%AF%E5%B8%82%E9%95%B7%E8%B3%80%E7%A6%8F%E5%AF%B6%E9%81%AD%E6%83%A1%E5%A0%B1.jpg">
