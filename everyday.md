@@ -29,7 +29,7 @@
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
 
-<h1><b>“610”官员坦白的一起活摘案例</b></h1>
+<h1 align="center"><b>“610”官员坦白的一起活摘案例</b></h1>
 
 作者:玉清心<p>
 
