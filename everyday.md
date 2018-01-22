@@ -29,6 +29,13 @@
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
 
+<hr>
+视频：
+
++ <a href='https://github.com/pkey5/dj/blob/master/download/30_wu_han_da_xue_sheng.mp4?raw=true'>30名武汉大学生人间蒸发！被活摘了吗？</a>
++ <a href='https://github.com/pkey5/dj/blob/master/download/wuhan_zhong_guo_de_qi_guan_yi_zhi.mp4?raw=true'>黄洁夫说：“没有武汉就没有中国的器官移植”，和武汉大学生失踪有关吗？</a>
++ <a href='https://github.com/pkey5/dj/blob/master/download/nan_hang_kong_yun_huo_ti_qi_guan.mp4?raw=true'>【重磅新闻视频】南航自曝空运活体器官，超过500宗。器官哪里来？</a>
+
 <h1 align="center"><b>强行抽血与绿色通道背后的活摘器官罪恶</b></h1>
 
 <table border="0" cellspacing="3" cellpadding="3">
@@ -104,7 +111,7 @@
 
 中共执政68年，虐杀生命、宰割肉体、禽兽不如。活摘器官被曝光，令世人看清暴政的极度邪恶。目前，美国、欧洲议会等国家和团体、全球的正义人士都严厉谴责中共活摘法轮功学员等良心犯器官的行径，要求中共立刻停止活摘罪行、释放无辜被关押的法轮功学员。
 
-揭露中共、解体中共，就是脱离邪恶、拯救生命。只有抛弃中共、重建道德，才能杜绝发生在大陆的强摘和盗卖器官的罪恶。#
+揭露中共、解体中共，就是脱离邪恶、拯救生命。只有抛弃中共、重建道德，才能杜绝发生在大陆的强摘和盗卖器官的罪恶。
 
 责任编辑：高义
 
