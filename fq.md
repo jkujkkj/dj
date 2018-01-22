@@ -1,11 +1,7 @@
-<table  cellSpacing=0 cellPadding=10 width=750 border=1>
+ <table cellSpacing=0 cellPadding=10 width=750 border=1>
 <tr>
 	<td align=center><strong>免费下载 翻墙软件</strong></td></center>
 </tr>
-
-</table>
-
- <table cellSpacing=0 cellPadding=10 width=750 border=1>
 
  <tr>
 	<td>自由门7.64专业版 (2018年01月09日)  历史最久，使用人数最多。</td>
