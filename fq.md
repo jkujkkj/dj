@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>免费下载 翻墙软件</b></h1>
 
-<table cellSpacing=0 cellPadding=10 width=880 border=1 align="center">
+<table cellSpacing=0 cellPadding=10 border=1 align="center">
  <tr>
 	<td>自由门7.64专业版 (2018年01月09日)  历史最久，使用人数最多。</td>
 	<td> <a href="https://github.com/pkey5/dj/blob/master/fanQing/fg764p.exe?raw=true">exe</a></td>
