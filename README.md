@@ -35,6 +35,14 @@
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
 
 <hr><div align="center">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/1%E6%B4%BB%E6%91%98-f-%E6%B8%AF%E5%AA%92%E6%8A%AB%E9%9C%B2%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E6%98%AF%E4%B8%AD%E5%85%B1%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E5%BA%AB.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/2-%E4%B9%9D%E5%AD%97%E7%9C%9F%E8%A8%80-f-%20%E4%B8%80%E5%8F%A5%E3%80%8C%E7%9C%9F%E8%A9%B1%E3%80%8D%E7%9A%84%E5%8A%9B%E9%87%8F.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/2-%E5%A4%A7%E6%B3%95%E6%B4%AA%E5%82%B3-f-%E5%8D%B0%E5%BA%A6%20JYOTHI%20SCHOOL%20%E5%AD%B8%E6%A0%A1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/3-%E8%BF%AB%E5%AE%B3-f-%E6%9B%9D%E5%85%89%E5%B1%B1%E6%9D%B1%E5%A5%B3%E5%AD%90%E7%9B%A3%E7%8D%84%E7%9A%84%E7%BD%AA%E6%83%A1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/3-%E8%BF%AB%E5%AE%B3-f-%E8%80%81%E7%88%B6%E8%A2%AB%E9%97%9C%E6%95%B8%E6%9C%88%E5%A5%B3%E5%85%92%E6%8A%95%E8%A8%B4%E4%B9%9F%E9%81%AD%E7%B6%81%E6%9E%B6.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/4-%E6%83%A1%E5%A0%B1-f-%E8%AA%B9%E8%AC%97%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%8F%83%E8%88%87%E8%BF%AB%E5%AE%B3%E8%80%8C%E9%81%AD%E5%A0%B1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0130/5-%E4%B8%89%E9%80%80-f-%E6%96%B0%E5%B9%B4%E6%96%B0%E7%94%9F%EF%BC%8C%E4%B8%80%E5%80%8B%E8%A1%8C%E5%8B%95%E4%B8%8D%E5%8F%AF%E5%86%8D%E7%AD%89.jpg">
+
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0129/1%E6%B4%BB%E6%91%98-f-%E8%A7%A3%E6%94%BE%E8%BB%8D%E7%AC%AC309%E9%86%AB%E9%99%A2%E6%AF%8F%E5%B9%B4%E5%81%9A%E5%A4%9A%E5%B0%91%E5%99%A8%E5%AE%98%E7%A7%BB%E6%A4%8D%E6%89%8B%E8%A1%93%EF%BC%9F.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0129/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E9%A9%9A%E5%96%9C.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0129/3-%E8%BF%AB%E5%AE%B3-f-%E3%80%8A%E9%9D%9C%E6%B0%B4%E6%B5%81%E6%B7%B1%E3%80%8B%E5%86%8D%E7%89%88%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%B6%B2%E7%AB%99%E5%85%A8%E7%90%83%E7%99%BC%E5%94%AE.jpg">
