@@ -35,6 +35,14 @@
     - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
 
 <hr><div align="center">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/1%E6%B4%BB%E6%91%98-f-%E4%B8%80%E4%BD%8D%E7%AB%99%E5%9C%A8%E7%BE%8E%E5%9C%8B%E5%9C%8B%E6%9C%83%E5%B1%B1%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%BF%83%E9%A1%98.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/2-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B-f-%E8%91%97%E5%90%8D%E4%B8%AD%E9%86%AB%E5%B8%AB%EF%BC%9A%E8%AE%93%E7%9C%9F%E3%80%81%E5%96%84%E3%80%81%E5%BF%8D%E5%9B%9E%E6%AD%B8%E4%BA%BA%E9%96%93.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/3-%E8%BF%AB%E5%AE%B3-f-%20%E7%80%8B%E9%99%BD%E5%A5%B3%E5%AD%90%E7%9B%A3%E7%8D%84%E8%A3%A1%E7%9A%84%E3%80%8C%E6%95%B4%E4%BA%BA%E3%80%8D%E5%B0%8F%E5%B1%8B.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/4-%E6%83%A1%E5%A0%B1-f-%E8%AA%B9%E8%AC%97%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%8F%83%E8%88%87%E8%BF%AB%E5%AE%B3%E8%A7%B8%E7%9B%AE%E9%A9%9A%E5%BF%83%E7%9A%84%E6%83%A1%E5%A0%B1.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/7-%E8%A8%B4%E6%B1%9F-f-%E5%9C%96%E6%9B%B8%E9%A4%A8%E9%A4%A8%E9%95%B7%E6%8E%A7%E5%91%8A%E6%B1%9F%E6%BE%A4%E6%B0%91.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/8-%E5%8F%8D%E8%BF%AB%E5%AE%B3-f-%E5%9C%A8%E8%8A%AC%E8%98%AD%E9%A6%96%E9%83%BD%E5%B8%82%E4%B8%AD%E5%BF%83%E9%BB%9E%E8%B5%B7%E7%9A%84%E7%87%AD%E5%85%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0206/9-%E9%96%93%E6%8E%A5-f-%E7%B9%AA%E7%95%AB%EF%BC%9A%E5%A4%A9%E9%96%80%E9%96%8B.jpg">
+
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0205/1%E6%B4%BB%E6%91%98-f-%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E3%80%8A%E8%A8%8A%E5%A0%B1%E3%80%8B%EF%BC%9A%E5%81%9C%E6%AD%A2%E6%B4%BB%E6%91%98%E5%99%A8%E5%AE%98%E9%80%AE%E6%8D%95%E5%B1%A0%E5%A4%AB%E6%B1%9F%E6%BE%A4%E6%B0%91.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0205/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E7%BE%8E%E8%B3%93%E5%B7%9E%E5%A4%A7%E5%AD%B8%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%85%B6%E4%B8%AD%E5%9C%8B%E6%96%B0%E5%B9%B4.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0205/2-%E6%B4%AA%E5%82%B3-f-%E6%B3%95%E8%BC%AA%E5%A4%A7%E6%B3%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%80%A7%E5%91%BD%E9%9B%99%E4%BF%AE%E5%8A%9F%E6%B3%95.jpg">
