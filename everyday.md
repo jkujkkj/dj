@@ -18,7 +18,7 @@
 </div>
 </TABLE>
 	
-<a href="https://github.com/gb3344/show1/blob/master/free.md"><img src="img/fq.jpg" width=880></a>
+<a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width=880></a>
 <hr>
 视频：
 
