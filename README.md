@@ -22,17 +22,8 @@
 </TR>
 </div>
 </TABLE>
-	
-+ <a href='https://github.com/pkey5/dj/blob/master/fanQing/um.apk?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/pkey5/dj/blob/master/fanQing/um.apk?raw=true'>安卓版4.2</a>
-    - [桌机版17.04](https://github.com/pkey5/dj/blob/master/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
-+ <a href='https://github.com/pkey5/dj/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
-    - <a href='https://github.com/pkey5/dj/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
-   - <a href='https://github.com/pkey5/dj/blob/master/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
-+ <a href='https://github.com/pkey5/dj/blob/master/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
-+ <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
-    - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
-    - <a href='https://github.com/pkey5/dj/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>
+
+<a href="https://github.com/gb3344/show1/blob/master/free.md"><img src="img/fq.jpg" width=880></a>
 
 <hr><div align="center">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0209/1-%E8%87%AA%E7%84%9A-%E3%80%8C%E5%A4%A9%E5%AE%89%E9%96%80%E8%87%AA%E7%84%9A%E3%80%8D%E6%98%AF%E9%A8%99%E5%B1%80.jpg">
