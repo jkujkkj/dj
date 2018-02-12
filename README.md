@@ -26,7 +26,6 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width=880></a>
 
 <hr><div align="center">
-<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0213/9-%E7%A5%9E%E9%9F%BB-f-2018%E5%B9%B4%E5%85%A8%E7%90%83%E8%8F%AF%E4%BA%BA%E6%96%B0%E5%B9%B4%E6%99%9A%E6%9C%83(4).jpg">
 	
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0213/9-%E7%A5%9E%E9%9F%BB-f-2018%E5%B9%B4%E5%85%A8%E7%90%83%E8%8F%AF%E4%BA%BA%E6%96%B0%E5%B9%B4%E6%99%9A%E6%9C%83(5).jpg">
 
