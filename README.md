@@ -2,7 +2,7 @@
 <TABLE border="1">
 <div >	
 <TR>
-	<TD><a href="https://github.com/goodabc/GCC/blob/master/goal.md"><img src="tu_wen/gccmd.jpg" width=880></a></TD>
+	<TD><a href="https://git.io/sss"><img src="img/2017_SY_CHINA_-0000406-600x400.jpg" width=880></a></TD>
 </TR>
 <TR>
 <TD align="center"><b><br>《九评》编辑部新书——《共产主义的终极目的——中国篇》<p>
