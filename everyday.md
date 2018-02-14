@@ -1,5 +1,5 @@
 <IMG SRC="img/red-979573-1-600x400-0212.jpg" width=880></a><br>
-<a href="https://git.io/sss"><IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=880></p>
+<a href="https://git.io/sss"><IMG SRC="img/2017_SY_CHINA_-0000406-600x400.jpg" width=880></p>
 <TABLE border="1">
 <div >	
 <TR>
