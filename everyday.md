@@ -1,4 +1,4 @@
-<IMG SRC="img/red-979573-1-600x400-0208.jpg" width=880></a><br>
+<IMG SRC="img/red-979573-1-600x400-0212.jpg" width=880></a><br>
 <TABLE border="1">
 <div >	
 <TR>
@@ -9,7 +9,7 @@
 <TD>下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/pkey5/dj/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)，<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a></TD>
+<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/pkey5/dj/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)，<a href="https://github.com/pkey5/dj/blob/master/download/goalmp4Npf.epub?raw=true">新唐人电视台视频播报版 epub 下载</a></TD>
 </TR>
 <TR>
 <TD><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍</b></a></TD>	
