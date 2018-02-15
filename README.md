@@ -1,9 +1,9 @@
 <img src="img/red-979573-1-600x400-0216.jpg" width=880></a>
- <a href="https://git.io/wh"><IMG SRC="img/s3.jpg" width=880></p>
+
 <TABLE border="1">
 <div >	
 <TR>
-	<TD><a href="https://git.io/sss"><img src="img/2017_SY_CHINA_-0000406-600x400.jpg" width=880></a></TD>
+	<TD><a href="https://git.io/wh"><IMG SRC="img/s3.jpg" width=880></a></TD>
 </TR>
 <TR>
 <TD align="center"><b><br>《九评》编辑部新书——《共产主义的终极目的——中国篇》<p>
