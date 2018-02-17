@@ -27,6 +27,11 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width=880></a>
 
 <hr><div align="center">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0217/2-%E4%BA%BA%E5%BF%83%E6%BC%B8%E6%98%8E-f-%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E7%9A%84%E8%A6%AA%E5%B1%AC%E5%80%91%EF%BC%9A%E9%81%8E%E5%B9%B4%E5%A5%BD%EF%BC%81.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0217/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E5%A4%A7%E6%B3%95%E8%A7%A3%E9%96%8B%E4%BA%8C%E5%8D%81%E5%B9%B4%E7%88%B6%E5%A5%B3%E5%BF%83%E7%B5%90.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0217/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E5%B1%B1%E6%9D%B1%E8%AB%B8%E5%9F%8E%E6%B0%91%E7%9C%BE%E6%81%AD%E7%A5%9D%E6%9D%8E%E5%A4%A7%E5%B8%AB%E9%81%8E%E5%B9%B4%E5%A5%BD.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0217/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f-%E7%99%BE%E5%A7%93%E6%81%AD%E7%A5%9D%E6%9D%8E%E5%A4%A7%E5%B8%AB%E9%81%8E%E5%B9%B4%E5%A5%BD.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0217/9-%E9%96%93%E6%8E%A5-f-%E4%B8%B9%E9%BA%A5%E5%A4%A7%E6%B3%95%E5%BC%9F%E5%AD%90%E6%81%AD%E7%A5%9D%E5%B8%AB%E5%B0%8A%E6%96%B0%E5%B9%B4%E5%BF%AB%E6%A8%82%EF%BC%81.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0216/9-%E7%A5%9E%E9%9F%BB-2018%E5%B9%B4%E5%85%A8%E7%90%83%E8%8F%AF%E4%BA%BA%E6%96%B0%E5%B9%B4%E6%99%9A%E6%9C%83(%E4%BA%A4%E9%9F%BF%E6%A8%821)%20.jpg ">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0216/9-%E7%A5%9E%E9%9F%BB-2018%E5%B9%B4%E5%85%A8%E7%90%83%E8%8F%AF%E4%BA%BA%E6%96%B0%E5%B9%B4%E6%99%9A%E6%9C%83(%E4%BA%A4%E9%9F%BF%E6%A8%822)%20.jpg ">	
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0216/1-1400%E4%BE%8B-%E8%BF%AB%E5%AE%B3%E6%B3%95%E8%BC%AA%E5%8A%9F%20%E8%AC%8A%E8%A8%8019%E5%B9%B4%E3%80%8C1400%E4%BE%8B%E3%80%8D%E7%9C%9F%E7%9B%B8%E8%B5%B7%E5%BA%95.jpg">
