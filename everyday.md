@@ -1,4 +1,4 @@
-<IMG SRC="img/little3.pg" width=880></a><br>
+<IMG SRC="img/little3.jpg" width=880></a><br>
 <a href="https://git.io/sss"><IMG SRC="img/s3.jpg" width=880></p>
 <TABLE border="1">
 <div >	
