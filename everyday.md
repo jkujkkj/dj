@@ -1,4 +1,5 @@
-<IMG SRC="img/little3.jpg" width=880></a><br>
+<img src="img/lian-y3-0222.jpg" width=880></a>
+<H1 align="center">错过2018年新唐人全球华人新年晚会的朋友，元宵节可能还有一场回放，再错过可能要再等一年，请大家告诉大家！</H1>
 <a href="https://git.io/sss"><IMG SRC="img/s3.jpg" width=880></p>
 <TABLE border="1">
 <div >	
